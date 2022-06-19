@@ -1,0 +1,177 @@
+[
+    {
+        "uid": "sign-up-form",
+        "name": "Sign-Up Form",
+        "category": "HTML"
+    },
+    {
+        "uid": "item-cart",
+        "name": "Item Cart",
+        "category": "HTML"
+    },
+    {
+        "uid": "spaghetti-recipe",
+        "name": "Spaghetti Recipe",
+        "category": "HTML"
+    },
+    {
+        "uid": "blog-post",
+        "name": "Blog Post",
+        "category": "HTML"
+    },
+    {
+        "uid": "rainbow-circles",
+        "name": "Rainbow Circles",
+        "category": "CSS"
+    },
+    {
+        "uid": "navbar",
+        "name": "Navbar",
+        "category": "CSS"
+    },
+    {
+        "uid": "pig-emoji",
+        "name": "Pig Emoji",
+        "category": "CSS"
+    },
+    {
+        "uid": "purchase-form",
+        "name": "Purchase Form",
+        "category": "CSS"
+    },
+    {
+        "uid": "algoexpert-products",
+        "name": "AlgoExpert Products",
+        "category": "CSS"
+    },
+    {
+        "uid": "testing-framework",
+        "name": "Testing Framework",
+        "category": "JavaScript"
+    },
+    {
+        "uid": "array-methods",
+        "name": "Array Methods",
+        "category": "JavaScript"
+    },
+    {
+        "uid": "event-target",
+        "name": "Event Target",
+        "category": "JavaScript"
+    },
+    {
+        "uid": "debounce",
+        "name": "Debounce",
+        "category": "JavaScript"
+    },
+    {
+        "uid": "this-binding",
+        "name": "This Binding",
+        "category": "JavaScript"
+    },
+    {
+        "uid": "promisify",
+        "name": "Promisify",
+        "category": "JavaScript"
+    },
+    {
+        "uid": "throttle",
+        "name": "Throttle",
+        "category": "JavaScript"
+    },
+    {
+        "uid": "curry",
+        "name": "Curry",
+        "category": "JavaScript"
+    },
+    {
+        "uid": "infinite-scroll",
+        "name": "Infinite Scroll",
+        "category": "DOM Manipulation"
+    },
+    {
+        "uid": "stopwatch",
+        "name": "Stopwatch",
+        "category": "DOM Manipulation"
+    },
+    {
+        "uid": "tic-tac-toe",
+        "name": "Tic Tac Toe",
+        "category": "DOM Manipulation"
+    },
+    {
+        "uid": "todo-list",
+        "name": "Todo List",
+        "category": "DOM Manipulation"
+    },
+    {
+        "uid": "typeahead",
+        "name": "Typeahead",
+        "category": "DOM Manipulation"
+    },
+    {
+        "uid": "tier-list",
+        "name": "Tier List",
+        "category": "DOM Manipulation"
+    },
+    {
+        "uid": "toasts",
+        "name": "Toasts",
+        "category": "DOM Manipulation"
+    },
+    {
+        "uid": "sudoku",
+        "name": "Sudoku",
+        "category": "DOM Manipulation"
+    },
+    {
+        "uid": "tip-calculator",
+        "name": "Tip Calculator",
+        "category": "React Components"
+    },
+    {
+        "uid": "question-list",
+        "name": "Question List",
+        "category": "React Components"
+    },
+    {
+        "uid": "quiz",
+        "name": "Quiz",
+        "category": "React Components"
+    },
+    {
+        "uid": "memory",
+        "name": "Memory",
+        "category": "React Components"
+    },
+    {
+        "uid": "crypto-prices",
+        "name": "Crypto Prices",
+        "category": "React Components"
+    },
+    {
+        "uid": "useFetch",
+        "name": "useFetch",
+        "category": "React Hooks"
+    },
+    {
+        "uid": "useLocalStorage",
+        "name": "useLocalStorage",
+        "category": "React Hooks"
+    },
+    {
+        "uid": "useStateWithHistory",
+        "name": "useStateWithHistory",
+        "category": "React Hooks"
+    },
+    {
+        "uid": "useInterval",
+        "name": "useInterval",
+        "category": "React Hooks"
+    },
+    {
+        "uid": "useWindowSize",
+        "name": "useWindowSize",
+        "category": "React Hooks"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "questionId": "item-cart",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "spaghetti-recipe",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "rainbow-circles",
+        "status": "INCORRECT"
+    },
+    {
+        "questionId": "purchase-form",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "algoexpert-products",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "testing-framework",
+        "status": "INCORRECT"
+    },
+    {
+        "questionId": "event-target",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "debounce",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "this-binding",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "throttle",
+        "status": "INCORRECT"
+    },
+    {
+        "questionId": "curry",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "infinite-scroll",
+        "status": "PARTIALLY_CORRECT"
+    },
+    {
+        "questionId": "stopwatch",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "tic-tac-toe",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "typeahead",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "tier-list",
+        "status": "PARTIALLY_CORRECT"
+    },
+    {
+        "questionId": "toasts",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "sudoku",
+        "status": "PARTIALLY_CORRECT"
+    },
+    {
+        "questionId": "tip-calculator",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "quiz",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "memory",
+        "status": "PARTIALLY_CORRECT"
+    },
+    {
+        "questionId": "crypto-prices",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "useStateWithHistory",
+        "status": "CORRECT"
+    },
+    {
+        "questionId": "useInterval",
+        "status": "PARTIALLY_CORRECT"
+    }
+]

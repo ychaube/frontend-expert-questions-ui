@@ -2,6 +2,7 @@ const BASE_URL = 'https://ychaube.github.io/frontend-expert-questions-ui';
 const QUESTIONS_API_BASE_URL = `${BASE_URL}/data/questions.json`
 const SUBMISSIONS_API_BASE_URL = `${BASE_URL}/data/submissions.json`
 
+debugger;
 fetchAndAppendQuestions();
 
 async function  fetchAndAppendQuestions() {
